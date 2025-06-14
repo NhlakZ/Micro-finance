@@ -1,5 +1,5 @@
 ## Micro-finance
-A start-up company looking to empower low-income individuals
+#A start-up company looking to empower low-income individuals
 
 Please consider the below factors while contributing
 
